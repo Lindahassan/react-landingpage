@@ -1,0 +1,9 @@
+.StaticsAll{
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px 120px; 
+  background: #FFFFFF;
+  border-radius: 10px;
+  
+}
