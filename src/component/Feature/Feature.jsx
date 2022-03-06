@@ -1,6 +1,7 @@
 import React from "react";
-import img2 from "../../assets/Illustration 2.png";
+import img2 from "../../assets/Illustration2.png";
 import circle from "../../assets/circule.png";
+
 import "./Feature.css";
 
 const Feature = () => {
