@@ -3,6 +3,11 @@
   .app {
     font-family: Rubik;
     font-style: normal;
+    margin-left:  400px;
+    padding: 0;
+    width: 800px;
+    height: 700px;
+    
   }
   h2 {
     font-size: 25px;
